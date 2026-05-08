@@ -21,15 +21,16 @@ export default function Dashboard() {
   if (t && t.split(".").length === 3) {
     try {
       const payload = JSON.parse(atob(t.split(".")[1]));
-      i(payload); 
+      setCurrentUser(payload); 
     } catch (err) {
       console.error("Token decoding failed:", err);
-      e("/login"); 
+      navigate("/login"); 
     }
   } else {
     
-    e("/login");
+    navigate("/login");
   }
+  fetchDashboardData();
 }, []);
 
   const fetchDashboardData = async () => {
