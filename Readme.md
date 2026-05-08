@@ -7,19 +7,15 @@ The platform provides secure authentication, role-based permissions, project col
 ---
 
 # 🌍 Live Demo
-
-### Frontend
-https://your-frontend-url.vercel.app
-
-### Backend API
-https://your-backend-url.up.railway.app
+https://taskyyy.up.railway.app/
 
 ---
 
 # 📸 Screenshots
 
 ## 🏠 Landing Page
-(Add Screenshot Here)
+<img width="946" height="470" alt="{C06CC93F-7616-46EF-AA36-FB4AB68CF36D}" src="https://github.com/user-attachments/assets/42ff88d7-e9f0-418d-b4d6-778548f819ed" />
+
 
 ## 🔐 Authentication
 (Add Screenshot Here)
