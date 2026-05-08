@@ -18,16 +18,20 @@ https://taskyyy.up.railway.app/
 
 
 ## 🔐 Authentication
-(Add Screenshot Here)
+<img width="938" height="462" alt="{3D1D23B6-090A-4962-81A3-04DE780CE559}" src="https://github.com/user-attachments/assets/539745d6-7cc4-48e0-a6a6-39c0c0cd582d" />
+
 
 ## 📊 Dashboard
-(Add Screenshot Here)
+<img width="943" height="463" alt="{CA10CC15-DAD5-49E2-A92D-DE6DDC61B153}" src="https://github.com/user-attachments/assets/e29b2460-7da8-4dc8-ac43-b77e5dc2faf5" />
+
 
 ## 📋 Project Workspace
-(Add Screenshot Here)
+<img width="947" height="468" alt="{8342F746-87AF-46D6-9BD8-A816E7D381B2}" src="https://github.com/user-attachments/assets/81b8d8e6-c559-407d-9e84-f01af5b22262" />
+
 
 ## ✅ Task Board
-(Add Screenshot Here)
+<img width="948" height="467" alt="{430CAD6C-1A88-4F08-9728-19A9A3E6992D}" src="https://github.com/user-attachments/assets/1d22b703-0178-4d70-99f6-d774d5cf2e7a" />
+
 
 ---
 
@@ -351,21 +355,3 @@ During this project, I improved my understanding of:
 - Protected Routes & Middleware
 
 ---
-
-# 👨‍💻 Author
-
-## Sankalp Khare
-
-B.Tech Computer Science Engineering Student  
-MERN Stack Developer
-
-### Connect With Me
-
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
-
----
-
-# 📄 License
-
-This project is developed for educational and learning purposes.
