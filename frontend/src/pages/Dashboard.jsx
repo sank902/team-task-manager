@@ -16,14 +16,21 @@ export default function Dashboard() {
   });
 
   useEffect(() => {
-    const token = localStorage.getItem("token");
-    if (token) {
-      setCurrentUser(JSON.parse(atob(token.split(".")[1])));
-      fetchDashboardData();
-    } else {
-      navigate("/login");
+  const t = localStorage.getItem("token");
+
+  if (t && t.split(".").length === 3) {
+    try {
+      const payload = JSON.parse(atob(t.split(".")[1]));
+      i(payload); 
+    } catch (err) {
+      console.error("Token decoding failed:", err);
+      e("/login"); 
     }
-  }, []);
+  } else {
+    
+    e("/login");
+  }
+}, []);
 
   const fetchDashboardData = async () => {
     try {
